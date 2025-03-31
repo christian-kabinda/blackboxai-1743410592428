@@ -1,0 +1,8 @@
+{
+  "name": "temp-install",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "create-next-app": "^15.2.4"
+  }
+}
